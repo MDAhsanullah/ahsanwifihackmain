@@ -9,12 +9,9 @@ $ pkg update && pkg upgrade
 
 $ pkg install git python
 
-$ git clone https://github.com/Mahfuz-THBD/Wifi_Hack_Installer
+$ git clone https://github.com/MDAhsanullah/ahsanwifihackmain
 
-$ cd Wifi_Hack_Installer
+$ cd ahsanwifihackmain
 
 $ python Installer.py
 ```
-# Wifi_Hack Repo
-
-https://github.com/Mahfuz-THBD/Wifi_Hack
